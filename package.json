@@ -2,9 +2,9 @@
   "name": "fp-ts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "main": "flow.ts",
   "scripts": {
-    "test": "ts-node index.ts"
+    "test": "ts-node flow.ts"
   },
   "author": "",
   "license": "ISC",
